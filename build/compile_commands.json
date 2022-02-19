@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/f/AP/apHw1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/mnt/f/AP/apHw1/./include  -g   -std=gnu++14 -o CMakeFiles/main.dir/main.cpp.o -c /mnt/f/AP/apHw1/main.cpp",
+  "file": "/mnt/f/AP/apHw1/main.cpp"
+},
+{
+  "directory": "/mnt/f/AP/apHw1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/mnt/f/AP/apHw1/./include  -g   -std=gnu++14 -o CMakeFiles/main.dir/hw1.cpp.o -c /mnt/f/AP/apHw1/hw1.cpp",
+  "file": "/mnt/f/AP/apHw1/hw1.cpp"
+},
+{
+  "directory": "/mnt/f/AP/apHw1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/mnt/f/AP/apHw1/./include  -g   -std=gnu++14 -o CMakeFiles/main.dir/unit_test.cpp.o -c /mnt/f/AP/apHw1/unit_test.cpp",
+  "file": "/mnt/f/AP/apHw1/unit_test.cpp"
+}
+]

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/f/AP/apHw1/hw1.h
+iostream
+-
+vector
+-
+random
+-
+iomanip
+-
+exception
+-
+
+/mnt/f/AP/apHw1/main.cpp
+iostream
+-
+gtest/gtest.h
+-
+hw1.h
+/mnt/f/AP/apHw1/hw1.h
+

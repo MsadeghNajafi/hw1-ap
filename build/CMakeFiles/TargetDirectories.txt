@@ -1,0 +1,3 @@
+/mnt/f/AP/apHw1/build/CMakeFiles/rebuild_cache.dir
+/mnt/f/AP/apHw1/build/CMakeFiles/edit_cache.dir
+/mnt/f/AP/apHw1/build/CMakeFiles/main.dir
